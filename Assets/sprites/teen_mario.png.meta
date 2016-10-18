@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 59c968c7c94ca794b809fef0d79c602b
+timeCreated: 1476317540
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teen_mario_0
+    21300002: teen_mario_1
+    21300004: teen_mario_2
+    21300006: teen_mario_3
+    21300008: teen_mario_4
+    21300010: teen_mario_5
+    21300012: teen_mario_6
+    21300014: teen_mario_7
+    21300016: teen_mario_8
+    21300018: teen_mario_9
+    21300020: teen_mario_10
+    21300022: teen_mario_11
+    21300024: teen_mario_12
+    21300026: teen_mario_13
+    21300028: teen_mario_14
+    21300030: teen_mario_15
+    21300032: teen_mario_16
+    21300034: teen_mario_17
+    21300036: teen_mario_18
+    21300038: teen_mario_19
+    21300040: teen_mario_20
+    21300042: teen_mario_21
+    21300044: teen_mario_22
+    21300046: teen_mario_23
+    21300048: teen_mario_24
+    21300050: teen_mario_25
+    21300052: teen_mario_26
+    21300054: teen_mario_27
+    21300056: teen_mario_28
+    21300058: teen_mario_29
+    21300060: teen_mario_30
+    21300062: teen_mario_31
+    21300064: teen_mario_32
+    21300066: teen_mario_33
+    21300068: teen_mario_34
+    21300070: teen_mario_35
+    21300072: teen_mario_36
+    21300074: teen_mario_37
+    21300076: teen_mario_38
+    21300078: teen_mario_39
+    21300080: teen_mario_40
+    21300082: teen_mario_41
+    21300084: teen_mario_42
+    21300086: teen_mario_43
+    21300088: teen_mario_44
+    21300090: teen_mario_45
+    21300092: teen_mario_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teen_mario_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 183
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 179
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 179
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 179
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 179
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 183
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 188
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 150
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 149
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 118
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 89
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 89
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 89
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 89
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_35
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 89
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 89
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 89
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 55
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 255
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teen_mario_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

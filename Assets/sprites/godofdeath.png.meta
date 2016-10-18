@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: b19e0e6452e60b34d8a79eab3312e313
+timeCreated: 1476410289
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: godofdeath_0
+    21300002: godofdeath_105
+    21300004: godofdeath_106
+    21300006: godofdeath_107
+    21300008: godofdeath_205
+    21300010: godofdeath_108
+    21300012: godofdeath_101
+    21300014: godofdeath_102
+    21300016: godofdeath_103
+    21300018: godofdeath_104
+    21300020: godofdeath_10
+    21300022: godofdeath_206
+    21300024: godofdeath_305
+    21300026: godofdeath_306
+    21300028: godofdeath_14
+    21300030: godofdeath_307
+    21300032: godofdeath_16
+    21300034: godofdeath_17
+    21300036: godofdeath_18
+    21300038: godofdeath_19
+    21300040: godofdeath_20
+    21300042: godofdeath_21
+    21300044: godofdeath_22
+    21300046: godofdeath_23
+    21300048: godofdeath_24
+    21300050: godofdeath_25
+    21300052: godofdeath_26
+    21300054: godofdeath_27
+    21300056: godofdeath_28
+    21300058: godofdeath_29
+    21300060: godofdeath_30
+    21300062: godofdeath_31
+    21300064: godofdeath_32
+    21300066: godofdeath_33
+    21300068: godofdeath_207
+    21300070: godofdeath_208
+    21300072: godofdeath_36
+    21300074: godofdeath_37
+    21300076: godofdeath_201
+    21300078: godofdeath_202
+    21300080: godofdeath_203
+    21300082: godofdeath_204
+    21300084: godofdeath_42
+    21300086: godofdeath_43
+    21300088: godofdeath_44
+    21300090: godofdeath_45
+    21300092: godofdeath_46
+    21300094: godofdeath_47
+    21300096: godofdeath_48
+    21300098: godofdeath_49
+    21300100: godofdeath_50
+    21300102: godofdeath_51
+    21300104: godofdeath_52
+    21300106: godofdeath_53
+    21300108: godofdeath_54
+    21300110: godofdeath_55
+    21300112: godofdeath_56
+    21300114: godofdeath_57
+    21300116: godofdeath_58
+    21300118: godofdeath_59
+    21300120: godofdeath_60
+    21300122: godofdeath_308
+    21300124: godofdeath_304
+    21300126: godofdeath_63
+    21300128: godofdeath_64
+    21300130: godofdeath_301
+    21300132: godofdeath_302
+    21300134: godofdeath_303
+    21300136: godofdeath_68
+    21300138: godofdeath_69
+    21300140: godofdeath_70
+    21300142: godofdeath_71
+    21300144: godofdeath_72
+    21300146: godofdeath_73
+    21300148: godofdeath_74
+    21300150: godofdeath_75
+    21300152: godofdeath_76
+    21300154: godofdeath_77
+    21300156: godofdeath_78
+    21300158: godofdeath_79
+    21300160: godofdeath_80
+    21300162: godofdeath_81
+    21300164: godofdeath_82
+    21300166: godofdeath_83
+    21300168: godofdeath_84
+    21300170: godofdeath_85
+    21300172: godofdeath_86
+    21300174: godofdeath_87
+    21300176: godofdeath_88
+    21300178: godofdeath_89
+    21300180: godofdeath_90
+    21300182: godofdeath_91
+    21300184: godofdeath_92
+    21300186: godofdeath_93
+    21300188: godofdeath_94
+    21300190: godofdeath_95
+    21300192: godofdeath_96
+    21300194: godofdeath_97
+    21300196: godofdeath_98
+    21300198: godofdeath_99
+    21300200: godofdeath_100
+    21300202: godofdeath_101
+    21300204: godofdeath_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: godofdeath_101
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 717
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_102
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 715
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_103
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 718
+        width: 108
+        height: 94
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_104
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 720
+        width: 110
+        height: 94
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_14
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 749
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 683
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_30
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 598
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_32
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 549
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_207
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 463
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_208
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 463
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_201
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 443
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_202
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 441
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_203
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 446
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_204
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 445
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 488
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_56
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 264
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_308
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 176
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_304
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 165
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_301
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_302
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_303
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 163
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 207
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_77
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 100
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_79
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 100
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_98
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 20
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_105
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 719
+        width: 156
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_106
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 722
+        width: 154
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_107
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 718
+        width: 103
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_205
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 443
+        width: 156
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_206
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 449
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_305
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 164
+        width: 156
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_306
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 167
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_307
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 176
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: godofdeath_108
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 718
+        width: 101
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
